@@ -1,0 +1,10 @@
+body{margin: auto;}
+.App{
+  width: 500px;
+  height: 250px;
+  border: 1px solid black;
+  border-radius: 10%;
+  padding: 10px;
+  margin: auto;
+
+}
